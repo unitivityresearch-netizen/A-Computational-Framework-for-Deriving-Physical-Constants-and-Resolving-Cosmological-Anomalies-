@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite as below."
+type: software
+authors:
+  - family-names: Howlett
+    given-names: C.
+    email: unitivity.research@gmail.com
+    alias: chowlett136
+title: "The κ = 3.0 Stability Constant: I = MC² and the Information-Mass Equivalence"
+version: 7.0
+date-released: 2025-12-26
+license: CC-BY-SA-4.0
+repository-code: "https://github.com/Chowlett/kappa3-framework"
+url: "https://vixra.org/abs/2512.0067"
+keywords:
+  - kappa=3
+  - information-mass equivalence
+  - hexagonal spacetime
+  - E8 unification
+  - Hubble tension
+  - 116 GeV scalar
+  - Four-Fold Consistency Criterion
+  - discrete spacetime
+abstract: >
+  κ = 3 is the universal conversion rate between information and mass
+  (I = MC²). Derived independently from hexagonal geometry, E8 Lie
+  algebra, and recursive fixed-point analysis. Resolves 20+ precision
+  anomalies with zero free parameters beyond v_EW = 246.22 GeV.
+  Live falsifiable prediction: 116.07 GeV scalar at LHC Run 3 (July 2026).
+references:
+  - type: article
+    title: "Planck 2018 results"
+    authors:
+      - name: "Planck Collaboration"
+    journal: "Astronomy & Astrophysics"
+    volume: 641
+    year: 2020
+  - type: article
+    title: "A comprehensive measurement of the local value of the Hubble constant"
+    authors:
+      - family-names: Riess
+        given-names: A.G.
+    journal: "ApJ Letters"
+    volume: 934
+    year: 2022

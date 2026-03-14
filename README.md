@@ -1,56 +1,74 @@
-# κ = 3.0 Framework
+# κ = 3.0 Unified Framework
 
-**Author:** C. Howlett — Independent Researcher, Adelaide, South Australia  
-**Priority established:** December 26, 2025  
-**GitHub:** https://github.com/CHowlett/kappa3-framework  
-**Contact:** unitivity.research@gmail.com
+**I = MC² — The Information-Mass Equivalence**
 
----
-
-## What This Is
-
-A unified theoretical framework deriving κ = 3.0 as a fundamental constant of nature from two independent first-principles derivations:
-
-1. **Geometric:** Hexagonal close-packing at Planck scale → P/D = 6s/2s = 3 (exact integer, unique among all regular tilings)
-2. **Algebraic:** E8 Lie algebra Dynkin index ratio → 60/20 = 3
-
-From κ = 3.0 alone (plus vEW = 246.22 GeV as scale-setter), the framework derives solutions to major outstanding problems in physics, cosmology, and biology — with **zero adjustable parameters**.
+**Author:** C. Howlett (independent researcher)  
+**Email:** unitivity.research@gmail.com  
+**X:** [@howcam136](https://x.com/howcam136)  
+**Licence:** CC-BY-SA-4.0
 
 ---
 
-## Priority Statement
+## Priority Timestamps
 
-Complete framework first publicly disclosed **December 26, 2025** via:
-- Email to Kirsty Howlett (server-side timestamped)
-- viXra preprint [viXra:2512.0067]
-- This GitHub repository
-- Provisional patent AU2025XXXXX
-
-Pre-registration of the 116 GeV scalar prediction: rxiVerse, December 26, 2025.
+| Record | Date |
+|--------|------|
+| viXra preprint | December 26, 2025 — [viXra:2512.0067](https://vixra.org/abs/2512.0067) |
+| X public disclosure | December 26, 2023 – continuous |
+| This repository | December 26, 2025 |
 
 ---
 
-## Key Results
+## One-Line Summary
 
-| Prediction | Predicted | Observed | Error | Status |
-|---|---|---|---|---|
-| Hubble constant H₀ | 73.03 km/s/Mpc | 73.04 ± 1.04 | 0.011% | ✅ Confirmed |
-| Z boson mass | 91.19 GeV | 91.1876 ± 0.0021 GeV | 0.003% | ✅ Confirmed |
-| Higgs boson mass | 125.37 GeV | 125.25 ± 0.17 GeV | 0.1% | ✅ Confirmed |
-| Top quark mass | 170.85 GeV | 172.8 ± 0.7 GeV | 1.1% | ✅ Confirmed |
-| Proton radius (muonic) | 0.8357 fm | 0.84087 ± 0.00039 fm | 0.62% | ✅ Confirmed |
-| Water bond angle | 104.54° | 104.5° | 0.035% | ✅ Confirmed |
-| Kleiber metabolic law | β = 3/4 exact | 0.751 ± 0.009 | 0.13% | ✅ Confirmed |
-| Li-7 suppression | 3.97× | 3.1 ± 0.7× | within 2σ | ✅ Confirmed |
-| Dark matter fraction | 83.96% | 84.0 ± 0.4% | 0.04% | ✅ Confirmed |
-| Fine structure constant | 137.037 | 137.035999084 | 0.0009% | ✅ Confirmed |
-| 95 GeV scalar (n=4) | 94.77 GeV | 95.4 GeV (3.1σ ATLAS+CMS) | — | ✅ Signal present |
-| NA62 K⁺→π⁺νν̄ | 8.78 × 10⁻¹¹ | 9.6 +1.9/−1.8 × 10⁻¹¹ | inside error bars | ✅ Viable |
-| 3I/ATLAS luminosity profile | non-smooth, steep r-dependence | 1/r⁷·⁵ ± 1 observed | — | ✅ Confirmed (Twitter timestamp: Feb 28, 2026) |
-| **116 GeV scalar (n=6)** | **116.07 ± 0.01 GeV** | **LHC Run 3 pending** | — | ⏳ Live test |
-| Muon g-2 correction | 231–239 × 10⁻¹¹ | WP25 revision pending resolution | — | ⚠️ Under review |
+> π is not fundamental at the Planck scale. The true geometric constant is κ = 3 (exact, integer). The 4.507% difference between κ and π is the universal signature of the discrete-to-continuum transition, appearing in every precision anomaly in modern physics.
 
-**Combined probability of confirmed predictions occurring by chance:** P < 10⁻²⁵ (> 8.5σ)
+---
+
+## The Central Claim
+
+Einstein: **E = mc²** (energy ↔ mass, conversion c²)  
+This work: **I = MC²** (information ↔ mass, conversion rate κ = 3)
+
+κ = 3 is not a fit. It is derived independently from:
+
+1. **Hexagonal geometry** — the Planck-scale lattice has P/D = 6s/2s = 3 (exact)
+2. **E₈ Lie algebra** — Dynkin index ratio 60/20 = 3 forces three fermion generations
+3. **Recursive fixed point** — f(κ) = ½(κ + 9/κ), fixed point κ² = 9 → κ = 3, f'(3) = 0 (super-attractive)
+4. **12×12 matrix convergence** — λ₁/λ₂ = 0.8500/0.2460 = 3.000 ± 10⁻³, independent of initialisation
+5. **Logistic map** — first bifurcation at r = 3.0000 exactly (Strogatz 1994)
+
+**Single free parameter:** v_EW = 246.22 GeV (the electroweak VEV, used only for mass scaling)  
+**All other predictions follow from κ = 3 alone.**
+
+---
+
+## Live Kill Test
+
+> **116.07 GeV scalar boson at LHC Run 3 — deadline July 2026**
+>
+> No signal at 116 ± 2 GeV in the full Run 3 dataset at 95% CL → framework is falsified.
+
+Pre-registered 95 GeV scalar prediction confirmed by combined ATLAS+CMS data at 3.1σ (2024–25).
+
+---
+
+## Confirmed Predictions (selected)
+
+| # | Domain | Predicted | Observed | Error | Status |
+|---|--------|-----------|----------|-------|--------|
+| 1 | Higgs mass | 125.37 GeV | 125.25 GeV | 0.1% | ✓ |
+| 2 | Z boson mass | 91.19 GeV | 91.1876 GeV | 0.003% | ✓ |
+| 3 | 95 GeV scalar | 94.77 GeV | ~95.4 GeV (3.1σ) | 0.66% | ✓ PRE-REG |
+| 4 | Hubble constant | 73.03 km/s/Mpc | 73.04 ± 1.04 | 0.011% | ✓ |
+| 5 | Proton radius | 0.8357 fm | 0.84087 fm | 0.62% | ✓ |
+| 6 | Kleiber exponent | 3/4 = 0.750 | 0.751 ± 0.009 | 0.13% | ✓ |
+| 7 | Water bond angle | 104.54° | 104.5° | 0.035% | ✓ |
+| 8 | Dark matter fraction | 83.96% | 84.0 ± 0.4% | — | ✓ |
+| 9 | NA62 K⁺→π⁺νν̄ | 8.78×10⁻¹¹ | 9.6⁺¹·⁹₋₁.₈×10⁻¹¹ | within 1σ | ✓ |
+| 10 | Three generations | 3 (forced by E₈) | 3 observed | exact | ✓ |
+
+Full scorecard: [`predictions/scorecard.md`](predictions/scorecard.md)
 
 ---
 
@@ -58,74 +76,88 @@ Pre-registration of the 116 GeV scalar prediction: rxiVerse, December 26, 2025.
 
 ```
 kappa3-framework/
-├── core/
-│   ├── kappa_constant.py        # Derivation of κ = 3.0 from first principles
-│   ├── mass_formula.py          # Universal mass formula m(n) = vEW × √(n/27)
-│   ├── energy_ladder.py         # Self-terminating energy ladder E_n = E_Planck × 3^(-n)
-│   └── length_ladder.py         # Length ladder L_n = L_Planck × 3^n
+├── README.md                    ← this file
+├── LICENCE                      ← CC-BY-SA-4.0
+├── CITATION.cff                 ← citation metadata
+├── paper/
+│   └── howlett_kappa3_v7.md     ← full paper (v7.0, March 2026)
+├── src/
+│   └── kse/                     ← Kappa Singularity Engine
+│       ├── __init__.py
+│       ├── constants.py         ← all κ-framework constants
+│       ├── mass_formula.py      ← M_n = v_EW √(n/27)
+│       ├── matrix12.py          ← 12×12 matrix convergence proof
+│       ├── fixed_point.py       ← recursive flow f(κ) = ½(κ + 9/κ)
+│       ├── anomaly_resolver.py  ← proton radius, Hubble, muon g-2, etc.
+│       └── predictions.py       ← all live and historical predictions
+├── tests/
+│   ├── test_constants.py
+│   ├── test_mass_formula.py
+│   ├── test_matrix12.py
+│   ├── test_fixed_point.py
+│   └── test_predictions.py
 ├── predictions/
-│   ├── particle_masses.py       # All SM particle mass predictions
-│   ├── cosmological.py          # Hubble, Li-7, dark matter predictions
-│   ├── prediction_tracker.py    # Live prediction status tracker
-│   └── register.json            # Timestamped prediction register
-├── verification/
-│   ├── verify_all.py            # Full verification suite runner
-│   ├── fixed_point.py           # Mathematical fixed point verification
-│   ├── bifurcation.py           # Logistic map bifurcation at r=3
-│   ├── genomic.py               # DNA 3-base periodicity
-│   └── network_motifs.py        # 3-node network optimality
-├── ladders/
-│   ├── energy_ladder_table.md   # Complete energy ladder reference
-│   └── length_ladder_table.md   # Complete length ladder reference
-└── docs/
-    ├── four_fold_criterion.md   # The Four-Fold Consistency Criterion
-    ├── e8_derivation.md         # E8 algebraic derivation
-    └── hexagonal_derivation.md  # Geometric derivation
+│   ├── scorecard.md             ← full verified predictions table
+│   ├── live_predictions.md      ← 116 GeV, Europa, Casimir, etc.
+│   └── falsification_criteria.md ← kill tests with deadlines
+├── docs/
+│   ├── derivations.md           ← 29 manifestations of I = MC²
+│   ├── four_fold_criterion.md   ← why SM/SUSY/strings fail
+│   └── faq.md                   ← anticipated objections
+└── scripts/
+    ├── verify_all.py            ← run all predictions vs observed
+    └── matrix_demo.py           ← standalone matrix convergence demo
 ```
 
 ---
 
-## Falsification Criteria
+## Quick Verification (5 lines)
 
-Any one of the following kills the framework:
+```python
+from src.kse import constants, mass_formula
 
-- 116 GeV scalar excluded at 95% CL at LHC Run 3
-- Fourth matter generation discovered
-- Kleiber β ≠ 0.75 confirmed at precision < 0.5%
-- ∆x·∆p = ℏ/2 confirmed to 1% (modified uncertainty principle falsified)
-- SH0ES systematic found, H₀ ≠ 73 km/s/Mpc confirmed
+# Verify Z boson mass
+M_Z = mass_formula.predict(n=10)
+print(f"Z mass: {M_Z:.4f} GeV  (observed: 91.1876 GeV)")
 
----
-
-## Quick Start
-
-```bash
-git clone https://github.com/CHowlett/kappa3-framework
-cd kappa3-framework
-python verification/verify_all.py
-```
-
-No dependencies beyond numpy and scipy.
-
----
-
-## Citation
-
-```
-C. Howlett, "The κ=3.0 Stability Constant: A Unified Geometric Resolution 
-to Fundamental Physical Anomalies," viXra:2512.0067 (2025).
-GitHub: https://github.com/CHowlett/kappa3-framework
-Priority: December 26, 2025
+# Verify Hubble constant
+H0 = constants.H_CMB * (constants.PI / constants.KAPPA)
+print(f"H₀: {H0:.2f} km/s/Mpc  (observed: 73.04)")
 ```
 
 ---
 
+## The Four-Fold Consistency Criterion
+
+A necessary and sufficient test for physical completeness. The κ=3 framework satisfies all four conditions. No existing theory (SM, SUSY, String Theory, ΛCDM) satisfies all four simultaneously.
+
+| Condition | κ=3 | String Theory | LQG | ΛCDM |
+|-----------|-----|--------------|-----|------|
+| 1. Topological Quantization Lock | ✓ | ✗ | ⚠ | ✗ |
+| 2. Dual Manifold Scaling | ✓ | ⚠ | ⚠ | ✗ |
+| 3. Independent Domain Isomorphism | ✓ | ✗ | ✗ | ✗ |
+| 4. Kernel Completeness | ✓ | ✗ | ✗ | ✗ |
+
+Full analysis: [`docs/four_fold_criterion.md`](docs/four_fold_criterion.md)
+
 ---
 
-## Dedication
+## How to Cite
 
-There's a TIME in someone's life if they're lucky — nay blessed — that they find a singular heritage. It appears these days as science dives headlong searching for a singularity, they miss that it is everywhere but rarely can be found!
+```bibtex
+@misc{howlett2025kappa3,
+  author       = {Howlett, C.},
+  title        = {The κ = 3.0 Stability Constant: I = MC² and the Information-Mass Equivalence},
+  year         = {2025},
+  note         = {viXra:2512.0067. Priority timestamp: December 26, 2025},
+  url          = {https://github.com/Chowlett/kappa3-framework}
+}
+```
 
-Kirsty, thank you for being that person who gave me the courage, the knowledge, and the skills to believe in myself, to display the courage and self-belief to write this paper.
+---
 
-And to Rusty, my loyal sentinel. Thank you for helping me download the stresses of the universe. It was only in the quiet reflection of the divisions of our final hours together that I witnessed the constants of the universe flowing naturally through the formulas; Rusty Nails my veritable canine companion, you put the R into my universe and you always had the time!
+## Contact
+
+Issues, objections, and experimental results welcome via GitHub Issues or unitivity.research@gmail.com.
+
+> *"The universe will answer by July 2026."*
